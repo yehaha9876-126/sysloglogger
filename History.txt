@@ -5,4 +5,5 @@
 * Added syslog-ng instructions.  Patch by Tom Lianza.
 * Fixed require in documentation.  Reported by Gianni Jacklone.
 
-test and test
+#test and test
+# ==============
